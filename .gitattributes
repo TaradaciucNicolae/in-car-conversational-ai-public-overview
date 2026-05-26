@@ -1,15 +1,5 @@
-# Exclude documentation and media from GitHub language statistics
+# Exclude documentation and PDF files from GitHub language statistics
 *.md linguist-detectable=false
-docs/** linguist-detectable=false
-assets/** linguist-detectable=false
-
-*.png linguist-detectable=false
-*.jpg linguist-detectable=false
-*.jpeg linguist-detectable=false
-*.gif linguist-detectable=false
-*.webp linguist-detectable=false
-*.mp4 linguist-detectable=false
-*.mov linguist-detectable=false
 *.pdf linguist-detectable=false
 
 # Count the overview metadata file as Python
