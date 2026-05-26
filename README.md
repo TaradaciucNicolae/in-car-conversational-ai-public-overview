@@ -5,6 +5,7 @@ Public technical overview of an in-car conversational AI prototype for hands-fre
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ace63ea-59c5-4250-b2ef-0c07de9992f0" width="720" alt="In-Car Conversational AI main dashboard with music and maps active" />
 </p>
+
 > The full source code is private due to intellectual property considerations. This repository documents the project’s functionality, architecture, technologies, screenshots, and implementation approach without exposing private source code, secrets, generated assets, or internal Git history.
 
 ---
