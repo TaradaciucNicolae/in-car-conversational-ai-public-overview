@@ -1,4 +1,4 @@
-# In-Car Conversational AI — Public Overview
+# In-Car Conversational AI - Public Overview
 
 Public technical overview of an in-car conversational AI prototype for hands-free cabin, infotainment, music, navigation, and comfort control.
 
