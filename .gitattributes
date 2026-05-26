@@ -1,0 +1,17 @@
+# Documentation
+*.md linguist-documentation
+docs/** linguist-documentation
+
+# Media and assets
+assets/** linguist-documentation
+*.png linguist-documentation
+*.jpg linguist-documentation
+*.jpeg linguist-documentation
+*.gif linguist-documentation
+*.webp linguist-documentation
+*.mp4 linguist-documentation
+*.mov linguist-documentation
+*.pdf linguist-documentation
+
+# Main overview language
+project_overview.py linguist-language=Python
