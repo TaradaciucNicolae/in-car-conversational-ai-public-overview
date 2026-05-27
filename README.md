@@ -3,7 +3,7 @@
 Public technical overview of an in-car conversational AI prototype for hands-free cabin, infotainment, music, navigation, and comfort control.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9ace63ea-59c5-4250-b2ef-0c07de9992f0" width="720" alt="In-Car Conversational AI main dashboard with music and maps active" />
+  <img src="./assets/screenshots/1.png" width="720" alt="In-Car Conversational AI main dashboard with music and maps active" />
 </p>
 
 > The full source code is private due to intellectual property considerations. This repository documents the project’s functionality, architecture, technologies, screenshots, and implementation approach without exposing private source code, secrets, generated assets, or internal Git history.
@@ -79,7 +79,7 @@ The following screenshots show the main application screens and demonstrate the 
 
 Users can log in manually or start the face-recognition authentication flow.
 
-<img width="1277" height="676" alt="Login page" src="https://github.com/user-attachments/assets/d49fbb7d-38c1-4ecb-af79-86affde94213" />
+<img width="1277" height="676" alt="Login page" src="./assets/screenshots/2.png" />
 
 ---
 
@@ -87,7 +87,7 @@ Users can log in manually or start the face-recognition authentication flow.
 
 Users can create/enroll a profile for the dashboard experience.
 
-<img width="1278" height="676" alt="Register page" src="https://github.com/user-attachments/assets/2e2be20b-c51b-4726-953e-6b98195e7baa" />
+<img width="1278" height="676" alt="Register page" src="./assets/screenshots/3.png" />
 
 ---
 
@@ -95,7 +95,7 @@ Users can create/enroll a profile for the dashboard experience.
 
 The main cockpit dashboard with the interface in a reduced/hidden mode.
 
-<img width="1279" height="679" alt="Main dashboard with hidden mode enabled" src="https://github.com/user-attachments/assets/dd8748aa-9b7c-4cb5-abb0-51f38f839785" />
+<img width="1279" height="679" alt="Main dashboard with hidden mode enabled" src="./assets/screenshots/4.png" />
 
 ---
 
@@ -103,7 +103,7 @@ The main cockpit dashboard with the interface in a reduced/hidden mode.
 
 The main dashboard view with visible cabin and infotainment widgets.
 
-<img width="1276" height="678" alt="Main dashboard with hidden mode disabled" src="https://github.com/user-attachments/assets/3d1af3f2-ca43-4563-91b3-2735a240ca7b" />
+<img width="1276" height="678" alt="Main dashboard with hidden mode disabled" src="./assets/screenshots/5.png" />
 
 ---
 
@@ -111,7 +111,7 @@ The main dashboard view with visible cabin and infotainment widgets.
 
 The dashboard supports ambient-light visualization and cabin mood feedback.
 
-<img width="1280" height="669" alt="Main dashboard with ambient light glow enabled" src="https://github.com/user-attachments/assets/51fb2f90-51c0-48ca-a1a0-ae391f6590ec" />
+<img width="1280" height="669" alt="Main dashboard with ambient light glow enabled" src="./assets/screenshots/6.png" />
 
 ---
 
@@ -119,7 +119,7 @@ The dashboard supports ambient-light visualization and cabin mood feedback.
 
 The assistant can coordinate multiple modules such as music playback and navigation.
 
-<img width="1280" height="674" alt="Main dashboard with music and maps active" src="https://github.com/user-attachments/assets/9ace63ea-59c5-4250-b2ef-0c07de9992f0" />
+<img width="1280" height="674" alt="Main dashboard with music and maps active" src="./assets/screenshots/7.png" />
 
 ---
 
@@ -127,7 +127,7 @@ The assistant can coordinate multiple modules such as music playback and navigat
 
 Dedicated seat-comfort controls for heating/cooling and comfort interactions.
 
-<img width="1280" height="675" alt="Seat comfort page" src="https://github.com/user-attachments/assets/8ec0fd06-ebb4-4337-b14c-1a37689d7a99" />
+<img width="1280" height="675" alt="Seat comfort page" src="./assets/screenshots/8.png" />
 
 ---
 
@@ -135,7 +135,7 @@ Dedicated seat-comfort controls for heating/cooling and comfort interactions.
 
 Configurable ambient-light page for adjusting cabin lighting behavior.
 
-<img width="1280" height="672" alt="Ambient light page" src="https://github.com/user-attachments/assets/455f24ea-2b90-4f38-bbce-a188adcc2199" />
+<img width="1280" height="672" alt="Ambient light page" src="./assets/screenshots/9.png" />
 
 ---
 
@@ -143,7 +143,7 @@ Configurable ambient-light page for adjusting cabin lighting behavior.
 
 Music search and playback interface integrated into the in-car assistant experience.
 
-<img width="1280" height="671" alt="Music page" src="https://github.com/user-attachments/assets/c63ecbc3-e8e6-4e8a-abf5-d98a3f2577c5" />
+<img width="1280" height="671" alt="Music page" src="./assets/screenshots/10.png" />
 
 ---
 
@@ -151,7 +151,7 @@ Music search and playback interface integrated into the in-car assistant experie
 
 Navigation interface with route visualization and driving-oriented state.
 
-<img width="1280" height="673" alt="Navigation page in motion" src="https://github.com/user-attachments/assets/8a58089e-c85c-465e-8ac6-2ea671be7f14" />
+<img width="1280" height="673" alt="Navigation page in motion" src="./assets/screenshots/11.png" />
 
 ---
 
@@ -159,7 +159,7 @@ Navigation interface with route visualization and driving-oriented state.
 
 Navigation interface shown while the simulated vehicle is parked.
 
-<img width="1280" height="677" alt="Navigation page parked" src="https://github.com/user-attachments/assets/20b09c54-dbf5-4b92-9016-be640f354b5a" />
+<img width="1280" height="677" alt="Navigation page parked" src="./assets/screenshots/12.png" />
 
 ---
 
@@ -167,7 +167,7 @@ Navigation interface shown while the simulated vehicle is parked.
 
 Settings page for assistant voice, user profile details, theme, and preferences.
 
-<img width="1280" height="679" alt="Settings page" src="https://github.com/user-attachments/assets/64336115-1dd9-4e2e-92f7-dd98cf44f328" />
+<img width="1280" height="679" alt="Settings page" src="./assets/screenshots/13.png" />
 
 ---
 
@@ -175,7 +175,7 @@ Settings page for assistant voice, user profile details, theme, and preferences.
 
 History view for previous assistant commands and interactions.
 
-<img width="1280" height="670" alt="Rhasspy history page" src="https://github.com/user-attachments/assets/eb51c6d9-83a2-4fbe-8e87-91bad48961ca" />
+<img width="1280" height="670" alt="Rhasspy history page" src="./assets/screenshots/14.png" />
 
 ---
 
